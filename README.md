@@ -1,4 +1,5 @@
 # Housing-Price-Analysis
+(TOP 10% Project in Kaggle Competition)
 
 This project aims to make a good housing price prediction based on thousands of housing data. The data has 81 features and a lot of missing data. 
 
